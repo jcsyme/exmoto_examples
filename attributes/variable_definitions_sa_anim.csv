@@ -1,0 +1,5 @@
+Variable Type,Variable,Information,Variable Schema,Categories
+Input,Mass of Animals,Average mass per head of each animal,``mass_anim_$UNIT-MASS$_per_head_$CAT-ANIMAL$``  (``$UNIT-MASS$ = kg``),all
+Input,Population of Animals,Population count of animals,``pop_anim_$CAT-ANIMAL$``,all
+Input,Pet Factor,Factor used to represent pets,``pet_factor_anim_$CAT-ANIMAL$``,``cats``|``dogs``
+Output,Total Mass of Animals,Total mass of animals,``mass_anim_total_$CAT-ANIMAL$_$UNIT-MASS$`` (``$UNIT-MASS$ = tonne``),all

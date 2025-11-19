@@ -1,0 +1,4 @@
+Variable Type,Variable,Information,Variable Schema,Categories,Custom Attribute 1,Custom Attribute 2
+Input,Average Tree Height,Average height of tree,``height_tree_$CAT-TREE$_$UNIT-LENGTH$`` (``$UNIT-LENGTH$ = m``),all,,
+Input,Average Woody Biomass in Tree,Store the average mass per tree in woody biomass,``mass_tree_$CAT-TREE$_$UNIT-MASS$`` (``$UNIT-MASS$ = tonne``),all,,
+Output,Average Density ,Sequestration in forests modeled as negative emissions,"``density_tree_$CAT-TREE$_$UNIT-MASS$_per_$UNIT-LENGTH$`` (``$UNIT-LENGTH$ = m``, ``$UNIT-MASS$ = tonne``)",all,,
